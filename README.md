@@ -1,4 +1,4 @@
-wh_test_java
+wh_test_php
 ============
 WH Test PHP Repository -- PHP examples and test files
 
