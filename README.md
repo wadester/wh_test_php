@@ -23,11 +23,11 @@ Notes:
     this format for MANY years (I may upload a tool or migrate to asciidoc).
 
 2)  This project is mainly to experiment with github and with PHP.  It is
-    losely based on my wh_test_py github repository.
+    loosely based on my wh_test_py github repository.
 
 3)  License for ALL files is GPL, see LICENSE.
 
-4)  Please e-mail me with any updates, suggesions, etc.
+4)  Please e-mail me with any updates, suggestions, etc.
 
 5)  Programs include TBD.
 
